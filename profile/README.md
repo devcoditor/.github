@@ -7,4 +7,4 @@
 3. Templating Engine - Template Studio quickly builds applications using a wizard-based UI to turn your needs into a foundation of best patterns and practices using WebAssembly.
 4. IoT & Digital Twins: Device Simulator -  Allows application developers to build and test software before and after hardware availability. Simulating memory and peripherals, removing the complexity of building and configuring board farms for testing.
 5. Visual Editor - Visual tools, components, drag and drop features.
-6. User Platform - Create, Publish, Fork and Share software and content i.e. applications, games, animations.  Create interactive applications, experiences, publications, bots, applets and content for the Web3.
+6. User Platform - Create interactive applications, experiences, publications, games, animations, bots, applets and content for the Web. Publish, Fork and Share software and content. 
