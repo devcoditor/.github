@@ -2,7 +2,7 @@
 
 ![Intro](/profile/coditor.gif)
 
-**A tool designed to easily create, collaborate and run software with any programming language on any platform using Web Assembly, Visual Tools, Code Assistants. Inspired by previous work in WYSIWYG Editors, Webflow, Glitch, Thimble, WebMaker.**
+**A visual development environment designed to easily create, collaborate and run software with any programming language on any platform using Web Assembly, Visual Tools, Code Assistants. Inspired by previous work in WYSIWYG Editors, Webflow, Glitch, Thimble, WebMaker.**
 
 1. Code Server - Code Editor powered by VS Code on the Web and API to expose functionality and extensions.  
 2. Live Server - Client-side hot reload for any programming language using WebAssembly.  
