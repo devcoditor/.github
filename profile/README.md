@@ -1,5 +1,7 @@
 # ⭐ Coditor: Code the Web  ⭐
 
+![Intro](/profile/coditor.gif)
+
 **A tool designed to easily create, collaborate and run software with any programming language on any platform using Web Assembly, Visual Tools, Code Assistants. Inspired by previous work in WYSIWYG Editors, Webflow, Glitch, Thimble, WebMaker.**
 
 1. Code Server - Code Editor powered by VS Code on the Web and API to expose functionality and extensions.  
