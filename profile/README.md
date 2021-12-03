@@ -1,4 +1,4 @@
-# ⭐ Coditor: Code the Web  ⭐
+# ⭐ Code the Web  ⭐
 
 ![Intro](/profile/coditor.gif)
 
