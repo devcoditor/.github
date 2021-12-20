@@ -1,4 +1,9 @@
-# ⭐ Code the Web  ⭐
+
+<h1 align="center" style="border-bottom: none">
+    <b>
+       ⭐️ Code the Web: Under Active Development ⭐️
+    </b>
+</h1>
 
 ![Intro](/profile/coditor.gif)
 
