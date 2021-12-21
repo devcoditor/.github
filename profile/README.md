@@ -1,7 +1,7 @@
 # Editor for the Web ⭐🏿‍💻🎆
 
 ## Under Active Development‼️
-**A visual development environment designed to easily create, collaborate, and publish your own applications and software using visual tools.**
+** Coditor is visual development environment and compute model designed to easily create, collaborate, and publish your own applications and software using visual tools.**
 
 ### Core Features
 1. Code Server - Code Editor powered by VS Code on the Web and API to expose functionality and extensions.  
